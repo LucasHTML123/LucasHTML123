@@ -1,8 +1,4 @@
-- 👋 Oi, me chamo Lucas 
-- 👀 Estou aprendendo HTML
-- Ainda sou BEM iniciante, mas quero me aperfeiçoar nesta linguagem 
-
-<!---
-LucasHTML123/LucasHTML123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Olá!</h1>
+<h3>Sobre mim:</h3>
+<p>Me chamo Lucas Kohler, tenho 14 anos de idade e quero trabalhar na área de tecnologia e sites. Fiz alguns projetos e recentemente comecei a fazer um <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/">curso de JavaScript</a> na Udemy. Espero fazer Análise e Desenvolvimento de Sistemas e me aperfeiçoar na análise.</p>
+<h3>Sinta-se avontade para me mandar idéias e dicas de projetos. Muito Obrigado</h3>
